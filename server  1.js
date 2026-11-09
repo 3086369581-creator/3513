@@ -1,0 +1,1 @@
+return baseUrl + '#video=' + encodeURIComponent(base64);
