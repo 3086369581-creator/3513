@@ -1,1 +1,0 @@
-let users = JSON.parse(localStorage.getItem('vp_users') || '[]');
